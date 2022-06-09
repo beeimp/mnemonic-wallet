@@ -2,8 +2,6 @@ const express = require('express');
 const router = express.Router();
 const lightwallet = require("eth-lightwallet");
 const fs = require('fs');
-const path = require('path');
-const { send } = require('process');
 
 // lightwallet 모듈을 사용한 랜덤한 니모닉 코드 생성 API
 router.post('/newMnemonic', async (req, res) => {
