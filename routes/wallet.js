@@ -53,7 +53,7 @@ router.post('/newWallet', async (req, res) => {
   }
 });
 
-// 패스워드와 생성된 월랫을 이용한 파생월랫 생성 API
+// 패스워드와 생성된 월랫을 이용한 파생주소 생성 API
 router.post('/newSubWallet', async (req, res) => {
   const { password } = req.body;
   try {
