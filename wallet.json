@@ -1,0 +1,28 @@
+{
+  "encSeed": {
+    "encStr": "/Eyi1P2H0UYVL6XKKTZkRW+SGbQjl80V5MpZ/R1ciHpsikPkjKIInX5cu3woIBPqr7BTrUQ8qonV+ijARrv2Uvm+AkHu6B3ijJRcB87szo0V8/+YliGV6IEJTiiJ5m6vvYCbufXkQevFwN23RcGGH/9vF/4WboVnpfEa+RBEOK2iE9LCna52JQ==",
+    "nonce": "xTNVgQXhRfBODIleVfwSn3cpOMgIo79Z"
+  },
+  "encHdRootPriv": {
+    "encStr": "zwWkIWAfzkmDLJCLimPllUcjn/l99aY2UcmZrpVriufP2r0X+Rl8248ES9bkgI0nFkzMo5yvmvQEoiqczwRM/V8NI7a56+S5nk3/mmDBAnzmiFABxdBhxiyj/LK7k++82CXFG55+FWe+qhu1AIUuheFvSTD3r0qQZRHOB8SzRA==",
+    "nonce": "IcdQNZ2D8VjDUypD27jbji35x3jcM7m3"
+  },
+  "addresses": [
+    "ac1efb2f1dc7d454f173a1931d2b1d490070a3c6",
+    "f3dec098801d3816fdda1100c6f4e6c2d04a2a82"
+  ],
+  "encPrivKeys": {
+    "ac1efb2f1dc7d454f173a1931d2b1d490070a3c6": {
+      "key": "6dPnCEov+iD8UyHGS/ZJ/bzcdQyz4WIfJbkzaFjeVvZaWY+AMku0GqbKyczKlC/p",
+      "nonce": "T5zPb7BIUZimDCUjB2ml6B1Qy+/5MaY6"
+    },
+    "f3dec098801d3816fdda1100c6f4e6c2d04a2a82": {
+      "key": "5drFdh5KvviD+YXsoT02gn/eBM+dd8JmtkpMZ6E1B/QVBiW39xiq+uT7rrhThcqz",
+      "nonce": "/HAPKlgJ4Siypeby70Wg0UNxp18S6Ti+"
+    }
+  },
+  "hdPathString": "m/0'",
+  "salt": "TFhDCajo1PaULkmS6wyvV7N1Us3HSJQfS78py9RBpbY=",
+  "hdIndex": 2,
+  "version": 3
+}
